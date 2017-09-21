@@ -1,6 +1,8 @@
 # Numeros - Sistemas Inteligentes
 Sistema de reconhecimento de números feito com python, utilizando redes neurais.
+
 Nossa rede neural trabalhará com 25 entradas, 15 camadas ocultas e 10 saídas.
+
 Também usaremos o Bias ativo.
 
 # Os números
