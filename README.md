@@ -28,4 +28,5 @@ O resultado, será representado por um vetor com valor 1 na posição no número
 Ex. 
 
 ![Imagem do número exemplo](https://github.com/wallacehenriquesilva/numeros-si/blob/master/numero8.PNG)
+
 8 = [0,0,0,0,0,0,0,0,1,0]
